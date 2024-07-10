@@ -1,0 +1,2 @@
+# xcodeinfo
+xcodeinfo docs
